@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hi, I'm Ayush Kasera!  
 🚀 **Aspiring Software Engineer | MERN Stack Developer | DSA Enthusiast**  
 
@@ -16,16 +18,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)    ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)   ![EJS](https://img.shields.io/badge/EJS-000?style=for-the-badge&logo=EJS&logoColor=white)  
 
 ### **⚡ Backend & Tools:**  
-![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
-![Mongoose](https://img.shields.io/badge/Mongoose-%238D6748.svg?style=for-the-badge)   
+![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Mongoose](https://img.shields.io/badge/Mongoose-%238D6748.svg?style=for-the-badge)   
 
 ---
 
 ## 📌 Current Goals  
-✅ Revise & Master **DSA **  
+✅ Revise & Master **DSA**  
 ✅ Build **full-stack projects** (MERN & Java Backend)  
 ✅ Prepare for **placements & mock interviews** 
 
+🚀 **Always Learning, Always Growing!**
 
-🚀 **Always Learning, Always Growing!**  
+</div>
