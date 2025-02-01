@@ -2,6 +2,7 @@
 
 # 👋 Hi, I'm Ayush Kasera!  
 🚀 **Aspiring Software Engineer | MERN Stack Developer | DSA Enthusiast**  
+</div>
 
 🎓 **B.Tech in Electronics & Engineering** at **IET DAVV, Indore**  
 💻 Passionate about **Web Development, Data Structures & Algorithms, and Backend Engineering**  
@@ -29,4 +30,3 @@
 
 🚀 **Always Learning, Always Growing!**
 
-</div>
