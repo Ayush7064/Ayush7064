@@ -7,7 +7,7 @@
 
 🎓 **B.Tech in Electronics & Engineering** at **IET DAVV, Indore**  
 💻 Passionate about **Web Development, Data Structures & Algorithms, and Backend Engineering**  
-📌 Currently **mastering Java for backend development** and **preparing for tech placements**  
+📌 Currently **mastering my skills in DSA** and **preparing for tech placements**  
 
 ---
 
